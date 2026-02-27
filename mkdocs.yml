@@ -15,8 +15,7 @@ nav:
   - Einrichtung: setup.md
   - Impressum: impressum.md
 
-  markdown_extensions:
+markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  
