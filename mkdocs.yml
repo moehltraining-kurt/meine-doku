@@ -9,9 +9,10 @@ theme:
   features:
     - content.code.copy
     - navigation.expand
+    - header.autohide
 
 nav:
-  - Home: index.md
+  - Meine Doku: index.md
   - Einrichtung: setup.md
   - Impressum: impressum.md
 
