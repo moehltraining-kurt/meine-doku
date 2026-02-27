@@ -3,6 +3,7 @@ site_name: Meine Doku
 theme:
   name: material
   language: de
+  logo: assets/logo.png
   palette:
     primary: indigo
   features:
