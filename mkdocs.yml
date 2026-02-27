@@ -9,7 +9,7 @@ theme:
   features:
     - content.code.copy
     - navigation.expand
-    - header.autohide
+    - navigation.tabs.sticky
 
 nav:
   - Meine Doku: index.md
