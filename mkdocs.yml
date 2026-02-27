@@ -4,7 +4,7 @@ theme:
   name: material
   language: de
   logo: assets/logo.png
-  title: ""
+  title: " "
   palette:
     primary: indigo
   features:
