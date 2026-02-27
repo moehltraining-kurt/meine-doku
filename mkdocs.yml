@@ -4,7 +4,6 @@ theme:
   name: material
   language: de
   logo: assets/logo.png
-  title: " "
   palette:
     primary: indigo
   features:
@@ -12,6 +11,9 @@ theme:
     - content.code.copy
     - header.autohide
     - navigation.sections
+
+extra_css:
+  - stylesheets/extra_css
 
 nav:
   - Meine Doku: index.md
