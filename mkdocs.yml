@@ -1,0 +1,13 @@
+site_name: Meine Doku
+
+theme:
+  name: material
+  language: de
+  palette:
+    primary: indigo
+  features:
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Einrichtung: setup.md
