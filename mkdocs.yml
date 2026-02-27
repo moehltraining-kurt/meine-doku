@@ -7,9 +7,10 @@ theme:
   palette:
     primary: indigo
   features:
-    - content.code.copy
     - navigation.expand
-    - navigation.tabs.sticky
+    - content.code.copy
+    - header.autohide
+    - navigation.sections
 
 nav:
   - Meine Doku: index.md
