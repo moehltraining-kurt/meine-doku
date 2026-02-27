@@ -3,10 +3,12 @@ site_name: Meine Doku
 theme:
   name: material
   language: de
+  logo: assets/logo.png
   palette:
     primary: indigo
   features:
     - content.code.copy
+    - navigation.expand
 
 nav:
   - Home: index.md
